@@ -1,4 +1,5 @@
 # pancreasCNN
+##CISC 881 Final Project
 
 This repo consists of five source code files that make up the 
 pipeline of work: Resample, PatchExtraction, MedianFiltering, Data Augmentation, and Model_build. 
